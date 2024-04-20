@@ -1,11 +1,11 @@
 <h1 align="center">Hello, I'm Mateusz</h1>
-<h3 align="center">A passionate frontend developer from Poland</h3>
+<h3 align="center">An eager and motivated developer from Poland</h3>
 
 - 🔭 I’m currently working on [Finance Manager](https://github.com/Mateusz113/Finance-Manager)
 
 - 🌱 I’m currently learning **Compose Multiplatform**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Mateusz113?tab=repositories](https://github.com/Mateusz113?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/Mateusz113?tab=repositories)
 
 - 📫 How to reach me **mateusz.ch.113@gmail.com**
 
