@@ -7,9 +7,9 @@
 
 - 👨‍💻 All of my projects are available [here](https://github.com/Mateusz113?tab=repositories)
 
-- 📫 How to reach me **mateusz.ch.113@gmail.com**
+- 📫 Use this email if you want to reach me: **mateusz.ch.113@gmail.com**
 
-- 📄 Know about my experiences [Insert the link here](Insert the link here)
+<!-- - 📄 Know about my experiences [Insert the link here](Insert the link here) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
