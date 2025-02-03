@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Mateusz</h1>
 <h3 align="center">An eager and motivated developer from Poland</h3>
 
-- 🔭 I’m currently working on [Finance Manager](https://github.com/Mateusz113/Finance-Manager)
+- 🔭 I’m currently working on [Reciper](https://github.com/Mateusz113/Reciper-Backend)
 
 - 🌱 I’m currently learning **Compose Multiplatform**
 
